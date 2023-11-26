@@ -1,4 +1,4 @@
-## Hello! I'm Nic 🤓
+## Hello! I'm Nicole 🤓
 
 I work with digital solutions and study systems development! 
 
