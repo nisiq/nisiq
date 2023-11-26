@@ -1,9 +1,5 @@
 ## Hello! I'm Nicole 🤓
 
-I work with digital solutions and study systems development! 
-
-Always looking for new knowledge :)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Nic-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Nic-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
